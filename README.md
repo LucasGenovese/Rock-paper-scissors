@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-Console Rock, Paper, Scissors game made on JavaScript for The Odin Project
+UI Rock, Paper, Scissors game made on JavaScript for The Odin Project
